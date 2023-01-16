@@ -161,9 +161,11 @@ export const App: React.FC = () => {
         </div>
 
         <div className="box table-container">
-          <p data-cy="NoMatchingMessage">
-            No photos matching selected criteria
-          </p>
+          {visiblePhotos.length === 0 && (
+            <p data-cy="NoMatchingMessage">
+              No photos matching selected criteria
+            </p>
+          )}
 
           <table
             className="table is-striped is-narrow is-fullwidth"

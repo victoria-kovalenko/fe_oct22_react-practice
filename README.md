@@ -28,4 +28,4 @@ Implement as much options below as you can:
 
 ## Your DEMO LINK
 
-- [DEMO LINK](https://victoria-kovalenko.github.io/react_product-categories-practice/)
+[DEMO LINK](https://victoria-kovalenko.github.io/fe_oct22_react-practice/#/)
