@@ -1,6 +1,6 @@
 # React Photo Album Practice
 
-You are given markup for a table of photos and 3 arrays. 
+You are given markup for a table of photos and 3 arrays.
 Implement as much options below as you can:
 
 1. Render photos in a table with id, title, album title and an user name.
@@ -20,12 +20,12 @@ Implement as much options below as you can:
     - You should truncate text of the album name (with CSS or JS)
     - Show only photos of selected categories;
     - `All` button should clear the selection;
-    - Remove `is-outlined` class from the `All` button if no categories are selected. 
-1. (*) Implement photo reordering. 
+    - Remove `is-outlined` class from the `All` button if no categories are selected.
+1. (*) Implement photo reordering.
     - add the last column with &darr; and &uarr; buttons
     - with moveUp button, move the item of the list to the one up position (if it's the first element - do nothing)
     - with moveDown button, move the item of the list to the one bottom position (if it's the last element - do nothing)
 
 ## Your DEMO LINK
 
-- [DEMO LINK](https://<your-account>.github.io/react_product-categories-practice/)
+- [DEMO LINK](https://victoria-kovalenko.github.io/react_product-categories-practice/)
